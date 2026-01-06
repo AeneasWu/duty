@@ -1,0 +1,48 @@
+{
+    "start": "2025-12-01",
+    "chunStart": "2025-12-01",
+    "chunStep": 3,
+    "persons": {
+        "昕": {
+            "color": "#ef4444"
+        },
+        "春": {
+            "color": "#3b82f6"
+        },
+        "东": {
+            "color": "#22c55e"
+        }
+    },
+    "duty": {
+        "2025-12": {
+            "leader": "昕"
+        },
+        "2026-01": {
+            "leader": "东",
+            "exceptions": {
+                "2026-01-06": [
+                    {
+                        "p_name": "昕",
+                        "shift_type": "day",
+                        "location": "hospital"
+                    },
+                    {
+                        "p_name": "春",
+                        "shift_type": "day",
+                        "location": "hospital"
+                    },
+                    {
+                        "p_name": "东",
+                        "shift_type": "day",
+                        "location": "hospital"
+                    },
+                    {
+                        "p_name": "春",
+                        "shift_type": "night",
+                        "location": "home"
+                    }
+                ]
+            }
+        }
+    }
+}
