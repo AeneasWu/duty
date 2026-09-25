@@ -325,6 +325,126 @@
           }
         ],
         "comment": ""
+      },
+      "2026-08-29": {
+        "assignments": [
+          {
+            "p_name": "东",
+            "shift_type": "all",
+            "location": "home"
+          }
+        ],
+        "comment": ""
+      },
+      "2026-08-30": {
+        "assignments": [
+          {
+            "p_name": "东",
+            "shift_type": "all",
+            "location": "home"
+          }
+        ],
+        "comment": ""
+      },
+      "2026-09-15": {
+        "assignments": [
+          {
+            "p_name": "东",
+            "shift_type": "all",
+            "location": "home"
+          }
+        ],
+        "comment": "春晖生病, 从今天起无法继续照顾老人"
+      },
+      "2026-09-18": {
+        "assignments": [
+          {
+            "p_name": "东",
+            "shift_type": "all",
+            "location": "home"
+          }
+        ],
+        "comment": ""
+      },
+      "2026-09-21": {
+        "assignments": [
+          {
+            "p_name": "东",
+            "shift_type": "all",
+            "location": "home"
+          }
+        ],
+        "comment": ""
+      },
+      "2026-09-24": {
+        "assignments": [
+          {
+            "p_name": "昕",
+            "shift_type": "all",
+            "location": "home"
+          }
+        ],
+        "comment": ""
+      },
+      "2026-09-27": {
+        "assignments": [
+          {
+            "p_name": "昕",
+            "shift_type": "all",
+            "location": "home"
+          }
+        ],
+        "comment": ""
+      },
+      "2026-09-30": {
+        "assignments": [
+          {
+            "p_name": "昕",
+            "shift_type": "all",
+            "location": "home"
+          }
+        ],
+        "comment": ""
+      },
+      "2026-09-25": {
+        "assignments": [
+          {
+            "p_name": "昕",
+            "shift_type": "all",
+            "location": "home"
+          }
+        ],
+        "comment": ""
+      },
+      "2026-09-26": {
+        "assignments": [
+          {
+            "p_name": "昕",
+            "shift_type": "all",
+            "location": "home"
+          }
+        ],
+        "comment": ""
+      },
+      "2026-09-28": {
+        "assignments": [
+          {
+            "p_name": "昕",
+            "shift_type": "all",
+            "location": "home"
+          }
+        ],
+        "comment": ""
+      },
+      "2026-09-29": {
+        "assignments": [
+          {
+            "p_name": "昕",
+            "shift_type": "all",
+            "location": "home"
+          }
+        ],
+        "comment": ""
       }
     },
     "2026-02": {
@@ -347,6 +467,13 @@
     },
     "2026-08": {
       "leader": "昕"
+    },
+    "2026-09": {
+      "leader": "东"
+    },
+    "2026-10": {
+      "leader": "昕",
+      "chun_join": false
     }
   }
 }
